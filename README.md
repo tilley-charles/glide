@@ -40,7 +40,7 @@ This routine builds off other excellent approaches to integrate text editors and
   - Friedrich Huebler
     - https://huebler.blogspot.com/2008/04/stata.html
   - Keith Kranker
-    - https://bitbucket.org/keithk/notepad-stats-integration/wiki/Home
+    - https://github.com/kkranker/notepad-stats-integration
   - Jelmer Ypma
     - https://www.ucl.ac.uk/~uctpjyy/downloads.html
 
