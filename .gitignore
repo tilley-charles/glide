@@ -1,0 +1,10 @@
+*
+!*/
+!*.au3
+!*.ini
+!*.txt
+!*.md
+!*.exe
+!.gitignore
+_scratch/*
+*/_scratch/*
