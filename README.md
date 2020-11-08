@@ -1,4 +1,4 @@
-# glide - Utility to transfer code from a text editor to a statistical software GUI
+# glide - Transfer code from a text editor to a statistical software GUI
 
 ## Use
   - The executable will transfer code from a text editor to a statistical software GUI (e.g., Stata, RStudio, etc.).
