@@ -2,6 +2,8 @@
 
   glide - Transfer code from a text editor to a statistical software GUI
 
+  v 1.0.0
+
   CTilley 20201108
 
   AutoIt v 3.3.14.5
