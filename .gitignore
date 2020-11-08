@@ -4,7 +4,7 @@
 !*.ini
 !*.txt
 !*.md
-!*.exe
+!*.zip
 !.gitignore
 _scratch/*
 */_scratch/*
