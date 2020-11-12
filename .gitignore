@@ -4,6 +4,7 @@
 !*.ini
 !*.txt
 !*.md
+!*.sublime-build
 !*.zip
 !.gitignore
 _scratch/*
