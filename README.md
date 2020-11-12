@@ -30,16 +30,16 @@
       - You may need to install the Sublime plug-in Chain of Command (https://packagecontrol.io/packages/Chain%20of%20Command).
     - The key mappings set the F1 and F2 keys to the **script** and **text** behaviors, respectively.
 
-  - Invoke with a command line call:
-    - [argument 1] - executable
-    - [argument 2] - file extension of script (or full file path and file name with extension)
-    - [argument 3] - behavior (run selected text or entire script)
-
-  - Example calls (should be mapped to keystrokes):
-    - "glide.exe" "C:/..../myscript.do" "text"
-    - "glide.exe"         "myscript.do" "script"
-    - "glide.exe"                 ".do" "text"
-    - "glide.exe"                  "do" "script"
+  - To integrate with a different text editor:
+    - Invoke with a command line call:
+      - [argument 1] - executable
+      - [argument 2] - file extension of script (or full file path and file name with extension)
+      - [argument 3] - behavior (run selected text or entire script)
+    - Example calls (should be mapped to keystrokes):
+      - "glide.exe" "C:/..../myscript.do" "text"
+      - "glide.exe"         "myscript.do" "script"
+      - "glide.exe"                 ".do" "text"
+      - "glide.exe"                  "do" "script"
 
 ## Acknowledgements
 This routine builds off other excellent approaches to integrate text editors and statistical software GUIs.
