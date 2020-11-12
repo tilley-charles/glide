@@ -5,6 +5,7 @@
 !*.txt
 !*.md
 !*.sublime-build
+!*.sublime-keymap
 !*.zip
 !.gitignore
 _scratch/*
