@@ -1,0 +1,4 @@
+{
+  "cmd": ["glide.exe", "$file", "text"],
+  "path": "C:\\...\\[.EXE FOLDER]"
+}
