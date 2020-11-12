@@ -24,6 +24,12 @@
     - [script]   - run entire script
 
 ## Integration
+  - To quickly integrate with Sublime Text:
+    - Leverage the build system and key mapping files in the **sublime** directory.
+    - The build systems execute **glide.exe**, with a dedicated build system for the **text** and **script** behaviors.
+      - You may need to install the Sublime plug-in Chain of Command (https://packagecontrol.io/packages/Chain%20of%20Command).
+    - The key mappings set the F1 and F2 keys to the **script** and **text** behaviors, respectively.
+
   - Invoke with a command line call:
     - [argument 1] - executable
     - [argument 2] - file extension of script (or full file path and file name with extension)
