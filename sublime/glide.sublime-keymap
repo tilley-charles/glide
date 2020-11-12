@@ -1,0 +1,18 @@
+[
+  { "keys": ["f1"], "command": "chain",
+    "args": {
+      "commands": [
+        ["set_build_system", {"file": "Packages/User/glidescript.sublime-build"} ],
+        ["build", {"build_system": "Packages/User/glidescript.sublime-build"} ]
+      ]
+    }
+  },
+  { "keys": ["f2"], "command": "chain",
+    "args": {
+      "commands": [
+        ["set_build_system", {"file": "Packages/User/glidetext.sublime-build"} ],
+        ["build", {"build_system": "Packages/User/glidetext.sublime-build"} ]
+      ]
+    }
+  }
+]
